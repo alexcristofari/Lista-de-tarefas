@@ -93,7 +93,7 @@ Tags/categorias
 Exportação de dados
 
 **Desenvolvido com React + Tailwind CSS**  
-[🔗 Repositório](https://github.com/seu-usuario) | [📂 Documentação](#)
+
 =======
 # React + Vite
 
