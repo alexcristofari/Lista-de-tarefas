@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gerenciador de Tarefas com React e Tailwind CSS 
 
 [![Live Demo](https://img.shields.io/badge/Demo-▶️-2ea44f?style=for-the-badge)](https://seu-deploy.com)
@@ -93,3 +94,13 @@ Exportação de dados
 
 **Desenvolvido com React + Tailwind CSS**  
 [🔗 Repositório](https://github.com/seu-usuario) | [📂 Documentação](#)
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> 7fc50c8 (Primeiro commit)
