@@ -1,5 +1,5 @@
 
-# Gerenciador de Tarefas com React e Tailwind CSS 
+# Gerenciador de Tarefas com React e Tailwind CSS  
 
 [![Live Demo](https://img.shields.io/badge/Demo-▶️-2ea44f?style=for-the-badge)](https://seu-deploy.com)
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
